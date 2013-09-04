@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/open.png</file>
+        <file>images/send.png</file>
+        <file>images/stop.png</file>
+        <file>images/background.png</file>
+        <file>images/background_1.png</file>
+        <file>images/lcd.bmp</file>
+        <file>images/edit-clear.png</file>
+        <file>images/clearbytes.png</file>
+        <file>images/exit.png</file>
+        <file>images/mesage.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
