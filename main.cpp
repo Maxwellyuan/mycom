@@ -1,3 +1,4 @@
+//GitHub测试
 #include "mainwindow.h"
 #include <QApplication>
 #include <QTextCodec> //加入头文件
